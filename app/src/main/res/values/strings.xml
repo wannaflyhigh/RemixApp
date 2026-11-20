@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApp 組合包</string>
+    <string name="accessibility_service_description">使用無障礙服務來提供桌面小工具一鍵鎖定螢幕功能。</string>
+</resources>
